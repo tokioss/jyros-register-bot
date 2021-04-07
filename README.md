@@ -27,6 +27,7 @@
 ![ayarlar](https://cdn.discordapp.com/attachments/810097100431687727/829472981331738664/unknown.png)
 
 
+## JyroS
 
 Proje ile ilgili herhangi bir sorun ile karşılaştığınızda bana Discord veya Instagram'dan Ulaşabilirsiniz.
 

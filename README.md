@@ -24,7 +24,7 @@
 ## Ayarlar.json Information
 
 {
-
+{
   "sunucu" : "", // Sunucunuzun İd'si
   "footer":"Developed by JyroS", // Alt Bilgi
   "voicechannel":"", // Botun bağlanacağı ses kanalının İd'si
@@ -48,7 +48,7 @@
   "noemoji":"" // Ret Emojisi
   
 }
-
+}
 
 
 Proje ile ilgili herhangi bir sorun ile karşılaştığınızda bana Discord veya Instagram'dan Ulaşabilirsiniz.

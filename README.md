@@ -23,32 +23,9 @@
 
 ## Ayarlar.json Information
 
-{
-{
-  "sunucu" : "", // Sunucunuzun İd'si
-  "footer":"Developed by JyroS", // Alt Bilgi
-  "voicechannel":"", // Botun bağlanacağı ses kanalının İd'si
-  
-  "kayıtkanal": "", // Kayıt kanalının İd'si Örn: register-chat
-  "log": "", // Kayıt günlüğü kanalının İd'si
-  "taglog":"", // Tag günlüğü kanalının İd'si
 
-  "tag" : "", // Tagınız (Sunucunuzun sembolü)
+![ayarlar](https://cdn.discordapp.com/attachments/810097100431687727/829472981331738664/unknown.png)
 
-  "tagrol":[""], // Tag alan kullanıcılara verilen rolün İd'si
-  "vip":[""], // Özel üye rolünün İd'si
-  "kız": [""], // Kız rolünün İd'si
-  "erkek": [""], // Erkek rolünün İd'si
-  "kayıtsız": [""], // Kayıtsız rolünün İd'si
-
-  "yetkili": [""], // Yetkili rolünün İd'si Örn: Register, Kayıt Sorumlusu
-  "moderator":[""], // Üst yetkili rolünün İd'si (İsim değiştirme ve teyit sıfırlama komutları için kullanılır. İsterseniz tekrar kayıt sorumlusunun rolünü etiketleyebilirsiniz.)
-  
-  "yesemoji":"", // Onay Emojisi
-  "noemoji":"" // Ret Emojisi
-  
-}
-}
 
 
 Proje ile ilgili herhangi bir sorun ile karşılaştığınızda bana Discord veya Instagram'dan Ulaşabilirsiniz.

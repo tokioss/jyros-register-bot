@@ -1,0 +1,25 @@
+{
+  "name": "jyros-register-bot",
+  "version": "0.0.1",
+  "description": "Developed by JyroS",
+  "main": "jyros.js",
+  "scripts": {
+    "start": "node jyros.js"
+  },
+  "author": "JyroS",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord.js": "^12.5.0",
+    "fs": "^0.0.2",
+    "moment": "^2.29.1",
+    "quick.db": "^7.1.2",
+    "moment-duration-format": "^2.3.2"
+  },
+  "keywords": [
+    "node",
+    "discord",
+    "jyros",
+    "register"
+  ]
+}

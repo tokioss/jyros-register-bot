@@ -1,0 +1,25 @@
+{
+
+  "sunucu" : "",
+  "footer":"Developed by JyroS",
+  "voicechannel":"",
+  
+  "kayıtkanal": "",
+  "log": "",
+  "taglog":"",
+
+  "tag" : "",
+
+  "tagrol":[""],
+  "vip":[""],
+  "kız": [""],
+  "erkek": [""],
+  "kayıtsız": [""],
+
+  "yetkili": [""],
+  "moderator":[""],
+  
+  "yesemoji":"",
+  "noemoji":""
+  
+}

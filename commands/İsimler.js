@@ -43,7 +43,7 @@ message.channel.send(embed)}
   exports.conf = {
     enabled: true,
     guildOnly: false,
-    aliases: ['isimler', 'eski-isim'],
+    aliases: ['isimler', 'eski-isim','geçmişisimler','geçmiş-isimler'],
     permLevel: 0,
   }
   

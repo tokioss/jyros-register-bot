@@ -27,6 +27,12 @@
 ![ayarlar](https://cdn.discordapp.com/attachments/810097100431687727/829472981331738664/unknown.png)
 
 
+## Örnek Resimler
+
+![örnek1](https://media.discordapp.net/attachments/821126553504448532/835856184099471380/unknown.png)
+![örnek2](https://media.discordapp.net/attachments/821126553504448532/835856281860309083/unknown.png)
+
+
 ## JyroS
 
 Proje ile ilgili herhangi bir sorun ile karşılaştığınızda bana Discord veya Instagram'dan Ulaşabilirsiniz.

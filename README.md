@@ -34,12 +34,12 @@
 ![örnek1](https://media.discordapp.net/attachments/821126553504448532/835856184099471380/unknown.png)
 ![örnek2](https://media.discordapp.net/attachments/821126553504448532/835856281860309083/unknown.png)
 
-**Log içerisindeki attığı mesajlar:**
+- **Log içerisindeki attığı mesajlar:**
 
 ![örnek3](https://media.discordapp.net/attachments/810097100431687726/835856801853079572/unknown.png)
 ![örnek4](https://media.discordapp.net/attachments/810097100431687726/835856899970695188/unknown.png)
 
-**Komut kullanıldığında attığı mesajlar:**
+- **Komut kullanıldığında attığı mesajlar:**
 
 ![örnek5](https://media.discordapp.net/attachments/810097100431687726/835857204560920646/unknown.png)
 ![örnek6](https://media.discordapp.net/attachments/810097100431687726/835857305773539349/unknown.png)

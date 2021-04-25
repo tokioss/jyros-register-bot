@@ -3,7 +3,7 @@
 ## Komutlar
 
 - **Erkek** ve **Kadın** kayıt
-- `Eski isimleri` görüntüleme
+- **Eski isimleri** görüntüleme
 - **En fazla kayıt eden** yetkilileri listelemek
 - **Kayıt ettiğin kişileri** görüntülemek
 - **İsim değiştirme** 
